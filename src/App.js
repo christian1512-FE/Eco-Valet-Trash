@@ -5,10 +5,10 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      {/* <div className="top-level"> */}
+      <div className="background-color">
       <Navbar />
       <Header />
-      {/* </div> */}
+      </div>
       <About />
       <Services />
       <Contact />

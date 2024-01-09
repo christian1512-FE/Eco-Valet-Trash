@@ -4,9 +4,9 @@
 .header-nav-container {
   display: flex;
   justify-content: space-around;
-  height: 20vh;
-  padding: 1.5rem;
-  background-color: #F5C912;
+  height: 30vh;
+  padding: 2.5rem;
+  /* background-color: #F5C912; */
 }
 
 .logo-container img{
@@ -21,13 +21,13 @@ nav a {
   font-weight: 500;
   text-decoration: none;
   margin: 0 2rem;
-  color: #262e33;
-  float: left;
+  color: #262E33;
+  /* float: left; */
 }
 
 nav a:hover {
-  color: rgb(74, 201, 15);
-  border-bottom: 2px solid #19afea;
+  color: #262E33(74, 201, 15);
+  border-bottom: 2px solid #262E33;
   padding-bottom: 20px;
 }
 
