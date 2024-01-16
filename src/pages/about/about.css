@@ -1,0 +1,32 @@
+.about-container {
+    display: flex;
+    align-items: center;
+    max-width: 1250px;
+    min-height: 100vh;
+    margin: auto;
+    padding: 40px;
+    gap: 50px;
+}
+
+.about-content {
+    padding: 50px;
+    /* background-color: #F5C912; */
+    /* width: 100%; */
+}
+
+.about-content h1 {
+    color: #29abe2;
+    margin-bottom: 10px;
+}
+
+.about-content p {
+    font-size: 18px;
+    line-height: 1.5;
+    color: #262e33;
+    
+}
+.about-image img {
+    max-height: 500px;
+    max-width: 600px;
+}
+

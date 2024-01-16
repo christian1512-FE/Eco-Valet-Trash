@@ -20,10 +20,10 @@ function Navbar() {
       </div>
       {/* <div className="nav-container"> */}
       <nav ref={navRef}>
-        <a href="home">Home</a>
-        <a href="about">About</a>
-        <a href="services">Services</a>
-        <a href="contact">Contact</a>
+        <a href="#home">Home</a>
+        <a href="#about">About</a>
+        <a href="#services">Services</a>
+        <a href="#contact">Contact</a>
         {/* <button className="nav-btn nav-close-btn" onClick={showNavbar}>
           <FaTimes />
         </button> */}
