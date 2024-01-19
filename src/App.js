@@ -1,5 +1,5 @@
 import { Navbar, Footer} from "./components";
-import { Header, Contact, About, Services } from "./pages";
+import { Header, Contact, About, Services, Association } from "./pages";
 import './App.css';
 
 function App() {
@@ -11,6 +11,7 @@ function App() {
       </div>
       <About />
       <Services />
+      <Association />
       <Contact />
       <Footer />
    </div>
