@@ -1,0 +1,44 @@
+.footer-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 40vh;
+  background-color: #262e33;
+  color: white;
+}
+
+.footer-logo img{
+  margin: 12px;
+  height: 100px;
+  width: auto;
+}
+
+
+.links a svg {
+  width: 36px;
+  height: 36px;
+  padding: 6px;
+
+  border-radius: 18px;
+  margin: 4px;
+  margin-bottom: 12px;
+  color: rgb(255, 255, 255);
+  background: #f5c912; 
+}
+
+
+.links a:hover svg {
+  transform: scale(1.2);
+  transition: all 0.3s ease-in-out;
+  color: #262e33;
+}
+
+.footer-copy-right {
+  text-align: center;
+  width: 100%;
+  border-top: 1px solid #ffffff;
+  margin-top: 5px;
+  padding: 25px;
+  min-height: 80px;
+}
