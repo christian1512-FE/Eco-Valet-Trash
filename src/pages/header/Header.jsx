@@ -7,7 +7,7 @@ function Header() {
   return (
     <div className="eco-header-container" id="home">
       <div className="header-content">
-        <h1>Trash Made Simple<br />Valet Services Redefining Convenience.</h1>
+        <h1>Trash Made Simple<br /><b>Valet Services</b><br />Redefining Convenience.</h1>
         <p>
           Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corrupti
           distinctio quibusdam expedita.

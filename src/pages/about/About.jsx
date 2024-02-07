@@ -1,6 +1,5 @@
 import React from "react";
-import stepsimage from "../../assets/eco-steps.png";
-
+import apartment from "../../assets/free-apartment.png";
 
 import "./about.css";
 
@@ -8,7 +7,7 @@ function About() {
   return (
     <div className="about-container" id="about">
       <div className="about-image">
-        <img src={stepsimage} alt="trash-steps" />
+        <img src={apartment} alt="trash-steps" />
       </div>
       <div className="about-content">
         <h1>About Us</h1>
@@ -19,6 +18,7 @@ function About() {
           guarantee to not only meet, but exceed your expectations and ensure
           your full satisfaction.
         </p>
+        <br />
         <p>
           Our team is up for every job, managing projects with the skill and
           experience our clients have come to expect. Please get in touch to

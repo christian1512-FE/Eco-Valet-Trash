@@ -1,11 +1,15 @@
 .about-container {
     display: flex;
     align-items: center;
-    max-width: 1250px;
+    /* max-width: 1250px; */
     min-height: 100vh;
     margin: auto;
-    padding: 40px;
+    /* padding: 40px; */
+    padding: 10rem;
     gap: 50px;
+    background-image: url("../../assets/white-background.png"); 
+    background-size: cover;
+    background-position: center;
 }
 
 .about-content {
@@ -23,8 +27,11 @@
     color: #262e33;
     
 }
+
 .about-image img {
     max-height: 500px;
     max-width: 600px;
+    border-radius: 24px;
 }
+ 
 
