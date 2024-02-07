@@ -1,9 +1,8 @@
 import React from "react";
-import texasapt from "../../assets/texas-apt-asso.png";
-import austinapt from "../../assets/austin-apt-asso.png";
-import NetVendor from "../../assets/NetVendor-Logo.png";
+import texasapt from "../../assets/texas-aa.png";
+import austinapt from "../../assets/austin-aa.png";
+import NetVendor from "../../assets/net-vendor.png";
 import jobberlogo from "../../assets/jobber.png";
-
 
 import "./association.css";
 
